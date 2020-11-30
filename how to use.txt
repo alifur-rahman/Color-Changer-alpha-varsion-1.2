@@ -1,0 +1,8 @@
+					how to use
+1. link the fontawsome cdn.;
+2. link the jquery JS;
+3. link the color-changer CSS;
+4. link the color-chager JS;
+5. link the fonts Battalion;
+
+6. adding variable css "var(--addColor)" which area/border/backgroun/hover color you want to change.
