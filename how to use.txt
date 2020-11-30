@@ -1,6 +1,10 @@
 you can change your hover-color, border-color, area-color, text-color, theme-color in use this plugins. 
 
+<<<<<<< HEAD
 					how to use
+=======
+how to use
+>>>>>>> b892f0727a4c50a461a58388e893d8e74d00deef
 1. link the fontawsome cdn.;
 2. link the jquery JS;
 3. link the color-changer CSS;
